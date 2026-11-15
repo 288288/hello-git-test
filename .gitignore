@@ -1,0 +1,30 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.log
+~$*
+
+# Python（如果你的项目用得上）
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node（如果你的项目用得上）
+node_modules/
+npm-debug.log*
+
+# 系统
+.DS_Store
